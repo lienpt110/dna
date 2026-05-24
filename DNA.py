@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
+#lienpt
 
 # Tạo figure và axes
 fig, ax = plt.subplots(figsize=(10, 6))
